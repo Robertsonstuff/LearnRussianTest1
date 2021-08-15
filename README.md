@@ -1,2 +1,2 @@
 # LearnRussianTest1
-simple idea that scales really well, try it for yourself.
+simple idea of reading from a list to test how well your learning your new language, try it for yourself.
